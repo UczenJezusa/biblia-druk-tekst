@@ -4,10 +4,13 @@ jak i wydania z 1879 roku) po to, aby tekst ten mógł posłużyć
 za źródło do kolejnych publikacji oraz rewizji.**
 
 ### Kolejność zadań
->1. Pierwszym zadaniem jest korekta istniejącego już
+1. Pierwszym zadaniem jest korekta istniejącego już
 cyfrowego tekstu wydania z 1879 roku.
-<br>Skan: [1879](https://archive.org/details/biblijawietatoje00wars/page/n7/mode/2up?view=theater)
-<br>Zrobione: każda księga została przynajmniej raz sprawdzona.
+	- Skany:
+	<br>[1879](https://archive.org/details/biblijawietatoje00wars/page/n7/mode/2up?view=theater)
+	<br>[1875](https://polona.pl/preview/e6a5607a-8ab5-4a21-8ebd-b6696911129d)
+	<br>Skan `1875` stanowi dodatkowe źródło np. przydatne w miejscach, gdy główny skan `1879` jest niewyraźny. W pierwszej kolejności należy korzystać ze skanu `1879`.
+	- Częściowo zrobione: każda księga została przynajmniej raz sprawdzona. Zalecane jest ponowne sprawdzanie w celu wychwycenia i wyeliminowania ewentualnych pozostałych literówek i błędów.
 
 2. Drugim zadaniem jest odwzorowanie tekstu wydania z 1632 roku.
 Wybraną metodą jest wykorzystanie do tego celu poprawionego
@@ -16,8 +19,10 @@ pisownię z zastanej na siedemnastowieczną, a następnie porównanie
 tekstu werset po wersecie ze skanem oryginału i naniesienie napotkanych różnic.
 	- Skany:
 	<br>[1632](https://drive.google.com/file/d/1MLVMZMDLZgNnFCoV1l6hrlajAzMLP9-E)
+	<br>[pomocniczy 1632](https://polona.pl/preview/e48bfa40-8fa9-49f6-b270-6f5b04a8a0a2)
 	<br>[1660](https://books.google.pl/books?id=FSZfAAAAcAAJ&dq=pismo%20%C5%9Bwi%C4%99te%201660&hl=pl&pg=RA2-PA256#v=onepage&q&f=false)
 	<br>[1606 (NT)](https://books.google.pl/books?id=2LyL-PvjFksC&printsec=frontcover&hl=pl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+	<br>Skan `pomocniczy 1632` stanowi dodatkowe źródło np. przydatne w miejscach, gdy skan `1632` jest niewyraźny. W pierwszej kolejności należy korzystać z skanu `1632`.
 	- Instrukcje szczegółowe:
 		- **Kursywa**
 		<br>Tekst pochylony należy oznaczyć tagiem html &lt;i&gt;&lt;/i&gt;.
@@ -53,7 +58,7 @@ w których każda linijka odpowiada danemu wersetowi.
 
 ### Procedura nanoszenia korekt
 Zmiany wprowadzać można przez interface github.com:
-https://github.com/piotrskurzynski/biblia
+https://github.com/UczenJezusa/biblia-druk-tekst
 
 1. Wybór odpowiedniej księgi i rozdziału
 _(np. dla Rzym.5 '1879/45-rom/05.txt');_
@@ -74,6 +79,6 @@ kto, które rozdziały, jakich ksiąg sprawdził.
 
 
 W przypadku niechęci do zastosowanej technologii sugestie korekt
-można też nadsyłać drogą mailową na adres: info@bojwiary.pl
+można też nadsyłać drogą mailową na adres: umilowany.uczen@gmail.com
 uprasza się jednak o wcześniejsze sprawdzenie, czy sugerowane
 zmiany nie zostały już tu naniesione.
