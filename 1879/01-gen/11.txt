@@ -11,7 +11,7 @@ Teć są rodzaje Semowe: Sem gdy miał sto lat, spłodził Arfachsada we dwa lat
 I żył Sem po spłodzeniu Arfachsada pięć set lat, i spłodził syny i córki.
 Arfachsad też żył trzydzieści i pięć lat, i spłodził Selecha.
 I żył Arfachsad po spłodzeniu Selecha cztery sta lat, i trzy lata, i spłodził syny i córki.
-Selech zaś żył trzydzieści lat, i spłodził Hebera.
+Selech zaś żył trzydzieści lat, i spłodził Hebera;
 I żył Selech po spłodzeniu Hebera cztery sta lat, i trzy lata, i spłodził syny i córki.
 I żył Heber trzydzieści lat i cztery, i spłodził Pelega.
 Żył też Heber po spłodzeniu Pelega, cztery sta lat, i trzydzieści lat, i spłodził syny i córki.
@@ -24,7 +24,7 @@ I żył Sarug po spłodzeniu Nachora dwieście lat, i spłodził syny i córki.
 Także Nachor żył dwadzieścia i dziewięć lat, i spłodził Tarego.
 I żył Nachor po spłodzeniu Tarego sto lat i dziewiętnaście lat, i spłodził syny i córki.
 I żył Tare siedmdziesiąt lat, i spłodził Abrama, Nachora i Harana.
-A teć są rodzaje Tarego: Tare spłodził Abrama, Nachora i Harana. Haran zaś spłodził Lota.
+A teć są rodzaje Tarego: Tare spłodził Abrama, Nachora, i Harana. Haran zaś spłodził Lota.
 I umarł Haran przed obliczem Tarego ojca swego, w ziemi narodzenia swego, w Ur Chaldejskiem.
 I pojęli Abram i Nachor sobie żony: imię żony Abramowej było Saraj, a imię żony Nachorowej Melcha, córka Harana, ojca Melchy, i ojca Jeschy.
 A była Saraj niepłodna, i nie miała dziatek.
